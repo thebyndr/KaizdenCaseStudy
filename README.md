@@ -1,0 +1,2 @@
+# KaizdenCaseStudy
+Kaizen Case Study
