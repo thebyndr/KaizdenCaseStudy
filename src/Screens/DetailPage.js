@@ -9,10 +9,10 @@ import {
     Image
 } from 'react-native';
 
-import { CommonActions, useNavigation } from '@react-navigation/native' // <-- import useNavigation hook
+import { CommonActions, useNavigation } from '@react-navigation/native' 
 
 const DetailPage = (props) => {
-    const navigation = useNavigation() // <-- add this line
+    const navigation = useNavigation() 
 
     const {chosenItemData} = props.route.params;
 
