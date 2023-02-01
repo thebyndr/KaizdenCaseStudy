@@ -2,7 +2,7 @@
 Merhaba , aşağıdaki linkte yaptığım case study'nin videosu mevcuttur
 - https://www.youtube.com/watch?v=TSCg998KuHs
 
-React-Native version 6.8.2
+React-Native version "0.68.2"
 - Uygulamada kullandığım kütüphaneler ;
 
    - "@react-native-community/masked-view": "^0.1.11",
