@@ -1,4 +1,4 @@
-# KaizdenCaseStudy
+# Kaizen Case Study
 Merhaba , aşağıdaki linkte yaptığım case study'nin videosu mevcuttur
 - https://www.youtube.com/watch?v=TSCg998KuHs
 
