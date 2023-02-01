@@ -5,8 +5,6 @@ Merhaba , aşağıdaki linkte yaptığım case study'nin videosu mevcuttur
 - Uygulamada kullandığım kütüphaneler ;
 
    - "@react-native-community/masked-view": "^0.1.11",
-   - "@react-navigation/bottom-tabs": "^6.5.4",
-   - "@react-navigation/drawer": "^6.5.8",
    - "@react-navigation/native": "^6.1.3",
    - "@react-navigation/native-stack": "^6.9.9",
    - "@react-navigation/stack": "^6.3.12",
