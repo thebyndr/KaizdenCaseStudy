@@ -1,0 +1,6 @@
+module Pods_kazienCaseStudy {
+  umbrella header "Pods-kazienCaseStudy-umbrella.h"
+
+  export *
+  module * { export * }
+}
